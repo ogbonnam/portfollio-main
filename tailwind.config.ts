@@ -39,7 +39,7 @@ const config = {
           200: "#C1C2D3",
         },
         blue: {
-          "100": "#E4ECFF",
+          "100": "#FFFFFF",
         },
         purple: "#CBACF9",
         border: "hsl(var(--border))",
